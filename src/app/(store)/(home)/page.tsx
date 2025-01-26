@@ -1,5 +1,5 @@
-import { api } from '@/app/data/api'
-import { Product } from '@/app/data/types/products'
+import { api } from '@/data/api'
+import { Product } from '@/data/types/products'
 import Image from 'next/image'
 import Link from 'next/link'
 
